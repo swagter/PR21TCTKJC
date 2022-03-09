@@ -1,3 +1,5 @@
+Dobili smo nalogo, da predstavimo podatke na smiselen način, odločili smo se, da preverimo kaj pravijo podatki o covidu.
+
 Podatke bomo črpali iz https://covid-19.sledilnik.org/sl/stats, ki dnevno posodablja vse v zvezi s korono.
 
 Podatki so v obliki ".csv" datotek, ki so objavljene na covid sledilniku.
